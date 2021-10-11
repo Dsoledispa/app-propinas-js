@@ -21,7 +21,7 @@ function calculo() {
 }
 
 function limpiar() {
-    document.getElementById("resultado").innerHTML = "";
+    document.getElementById("res").innerHTML = "";
     document.getElementById('personas').value = "";
-    document.getElementById('total').value = "";
+    document.getElementById('totalCuenta').value = "";
 }
